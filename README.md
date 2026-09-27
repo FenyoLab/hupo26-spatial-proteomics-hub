@@ -7,9 +7,13 @@ https://colab.research.google.com/drive/1-Y5LvKD38W_XvKnkmdFAbpW6D5boe_0t?usp=sh
 ## Contact Details
 
 David.Fenyo@nyulangone.org
+
 Linda.Procell@nyulangone.org
+
 Tianxiao.Zhao@nyulangone.org
+
 Beata.Szeitz@nyulangone.org
+
 
 ## References
 
