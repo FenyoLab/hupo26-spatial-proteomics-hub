@@ -15,7 +15,7 @@ Tianxiao.Zhao@nyulangone.org
 Beata.Szeitz@nyulangone.org
 
 ## Slides from Bioinformatics HUB session
-[Slide deck](PDF copy of HUPO Bioinfo Hub slides.pdf)
+[Slide deck](PDF_copy_of_HUPO_Bioinfo_Hub_slides.pdf)
 
 ## References
 
